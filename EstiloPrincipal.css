@@ -1,0 +1,33 @@
+body{
+	background: radial-gradient(circle,#fff,#bbb);
+	
+}
+
+
+ul li {
+	
+	display: inline-block;
+	padding: 20px;
+}
+
+.grid-header{
+ grid-area: header;
+ background: #ddf;
+
+}
+
+.grid-footer{
+	padding: 60px;
+	grid-area: footer;
+	background: #fdd;
+}
+
+.grid__pow{
+	padding: 20px;
+	background: #fff;
+}
+
+
+.introduccion{
+	font-family: 'Montserrat', sans-serif;;
+}
